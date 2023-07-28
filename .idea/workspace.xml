@@ -5,35 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2ddc6551-24b6-4041-9572-bf17af2ed23e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/feng/controller/BookController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/feng/controller/BookController2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/feng/controller/ultils/ProjectExceptionAdvice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/feng/controller/ultils/R.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/feng/service/impl/BookServiceImpl2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/axios-0.18.0.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/jquery.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/vue.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/pages/books.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/plugins/elementui/fonts/element-icons.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/plugins/elementui/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/plugins/elementui/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/plugins/font-awesome/css/font-awesome.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/plugins/font-awesome/css/font-awesome.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/plugins/font-awesome/fonts/FontAwesome.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/plugins/font-awesome/fonts/fontawesome-webfont.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/plugins/font-awesome/fonts/fontawesome-webfont.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/plugins/font-awesome/fonts/fontawesome-webfont.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/plugins/font-awesome/fonts/fontawesome-webfont.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/plugins/font-awesome/fonts/fontawesome-webfont.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/feng/dao/service/BookServiceTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/feng/service/IBookService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/feng/service/IBookService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/feng/service/impl/BookServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/feng/service/impl/BookServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/js/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/js/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/pages/books.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/pages/books.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,6 +51,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "jdk.selected.JAVA_MODULE": "1.8",
     "last_opened_file_path": "D:/Github/springboot_ssmp/src/main/resources/static",
@@ -84,6 +59,7 @@
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
@@ -218,6 +194,12 @@
       <workItem from="1680135063879" duration="5971000" />
       <workItem from="1680228505008" duration="3161000" />
       <workItem from="1680489886569" duration="70469000" />
+      <workItem from="1681434050037" duration="10000" />
+      <workItem from="1681434524050" duration="694000" />
+      <workItem from="1681523287178" duration="104000" />
+      <workItem from="1681774055871" duration="1613000" />
+      <workItem from="1681783059241" duration="5000" />
+      <workItem from="1690520009732" duration="3320000" />
     </task>
     <servers />
   </component>
